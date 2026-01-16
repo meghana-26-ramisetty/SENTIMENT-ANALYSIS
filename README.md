@@ -32,3 +32,6 @@ Visualization played an important role in making the results understandable. A p
 
 In conclusion, the Sentiment Analysis task was successfully completed using Excel with guidance from Google and video tutorials. The project demonstrated all essential steps: data preprocessing, model implementation using a rule-based approach, and insight generation. Even though Excel is not a traditional NLP tool, it proved effective for understanding sentiment analysis concepts and fulfilling the internship requirements in a practical and systematic way.
 
+"OUT PUT OF TASK":
+
+<img width="739" height="715" alt="Image" src="https://github.com/user-attachments/assets/7ddbb300-bce3-482c-b222-1ce9d5b4f6cd" />
